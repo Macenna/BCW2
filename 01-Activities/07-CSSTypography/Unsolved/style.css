@@ -1,0 +1,10 @@
+/*all text in the body */
+body {
+    font-size: medium;
+    font: helvetica;
+    text-align: center;
+}
+
+h1 {
+    text-align:center;
+}
