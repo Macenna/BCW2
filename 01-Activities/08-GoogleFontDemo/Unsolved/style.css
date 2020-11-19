@@ -6,3 +6,15 @@
 h1, h2, h3, h4 {
     font-family: 'Parisienne', cursive;
 }
+
+p.thought1 {
+    font-family: 'Homemade Apple', cursive;
+}
+
+p.thought2 {
+    font-family: 'Pinyon Script', cursive;
+}
+
+p.thought3 {
+    font-family: 'Montserrat', sans-serif;
+}
