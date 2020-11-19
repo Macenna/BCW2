@@ -22,6 +22,7 @@ a:hover {
 */
 a:focus {
   background-color: orange;
+  text-decoration-color: aqua;
 }
 
 /* Active Pseudo Class
