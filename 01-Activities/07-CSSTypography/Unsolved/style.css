@@ -1,5 +1,5 @@
 /* Thought blurb #1's class */
-.blurb1 {
+p.blurb1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
     font-weight: bold;
@@ -7,7 +7,7 @@
 }
 
 /*Thought blurb 2*/
-.blurb2 {
+p.blurb2 {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 24px;
     font-weight: normal;
@@ -15,7 +15,7 @@
 }
 
 /*Thought lurb 3*/
-.blurb2 {
+p.blurb2 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 20px;
     font-weight: normal;
