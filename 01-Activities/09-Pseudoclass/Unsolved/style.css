@@ -1,0 +1,37 @@
+/* First, call element (link, in this case) */
+    /* Also, enlarge the font for the entire element 
+         Thus, making the pseudo-classes are more obvious */
+a {
+    font-size: 100px;
+}
+
+/* Second, call each pseudo-class one by one 
+    to differentiate the CSS between each class */
+        /* [Some] Properties that can be changed per pseudo:
+            Color 
+            Font-family
+            Background
+        */
+
+    /* Changes the hyperlink from the default blue to pink */        
+a:default {
+    color: #ff69b4;
+}
+
+    /* Changes the text and background color when the link is hovered over */
+a:hover {
+    color: powderblue;
+    background: #006400;
+}
+
+    /* Changes the color and background once the link has been clicked/visited */
+a:visited {
+    color: #20B2AA;
+    background: #FFF0F5;
+}
+
+    /* Changes the color and background of the link as the mouse hovers over it */
+a:hover {
+    color: #800000;
+    background: #FFE4B5;
+}
